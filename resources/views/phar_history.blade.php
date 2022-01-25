@@ -71,8 +71,6 @@
                             <th>Quantity</th>
                             <th>Price</th>
                             <th>Total Price</th>
-
-                   
                         </tr>
                     </thead>
                     <tbody>

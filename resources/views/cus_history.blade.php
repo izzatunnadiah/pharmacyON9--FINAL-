@@ -93,20 +93,13 @@
 
 											<th>Order ID</th>
 											<th>Date</th>
-											<th>Quantity</th>
 											<th>Product Name</th>
+											<th>Quantity</th>
 											<th>Price</th>
 											<th>Total Price</th>
 										</tr>
 									</thead>
 									<tbody>
-										<!-- <tr>
-											<td>1</td>
-											<td>2022/1/2022</td>
-											<td>1 </td>
-											<td>RM 14 </td>
-											<td>RM 120</td>
-										</tr> -->
 										
 										<tr>
 											@foreach ($order as $orders)
@@ -115,8 +108,6 @@
 											@endforeach
 
 											@php $total = 0; @endphp
-
-											
 
 											@foreach ($cart as $carts)
 											<td>{{ $carts->product_name}}</td>
