@@ -30,7 +30,7 @@
             <a href="home"></a>
 
 
-            <div class="dropdown1">
+            <div class="dropdown1"> 
                 <button class="dropbtn" onclick="myFunction()">SIGN IN
                     <i class="fa fa-caret-down"></i>
                 </button>
