@@ -53,7 +53,7 @@
 					<a href="logout">Logout</a>
 
 				</div>
-			</div>
+			</div>   
 
 			<div class="dropdown1">
 				<button class="dropbtn" onclick="myFunction2()">SHOP
