@@ -1,6 +1,5 @@
 <?php
 
-
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\pharmacyON9;
 use App\Http\Controllers\ProductController;
